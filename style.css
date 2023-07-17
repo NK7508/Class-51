@@ -1,0 +1,37 @@
+h1{
+    color:blue;
+    font-size: 40px;
+    font-weight: 800;
+    font-style:oblique;
+    font-family: cursive;
+}
+h2{
+    color:blue;
+    font-size: 30px;
+    font-weight: 800;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    color:blue
+
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color: blue
+}
+p{
+    color: blue;
+
+}
+body{
+    background-color: #000;
+    margin: 20px;
+    padding: 20px;
+    border: 1px inset blue;
+    border-width: 8px;
+    border-radius: 80px;
+
+}
